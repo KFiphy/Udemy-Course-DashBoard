@@ -35,7 +35,8 @@ Data Visualization
 
 Microsoft Power Point
 
-Documented recommendations based on the insights generated through the dataset.
+Documented recommendations based on the insights generated from the dataset.
 
 DELIVERABLE
+
 An interactive dashboard visualizing KPI, subject & courses analysis, revenue variations across months and year for an e-learning platform. 
