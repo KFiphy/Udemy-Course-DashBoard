@@ -33,7 +33,8 @@ Data Analysis
 
 Data Visualization
 
-Microsoft Power Point
+
+Microsoft Power Point:
 
 Documented recommendations based on the insights generated from the dataset.
 
