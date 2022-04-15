@@ -2,7 +2,7 @@
 
 
 
-This project makes attempt to analyze the dataset consisting of information on specific subjects training (4) delivered on Udemy between 2011 and 2017. ( There are files available for each dataset, visual, recommendation)
+This project makes attempt to analyze the dataset consisting of information on specific subjects training (4) delivered on Udemy between 2011 and 2017. There are files available for each dataset, visual, recommendation)
 
 THE PROCESS
 
