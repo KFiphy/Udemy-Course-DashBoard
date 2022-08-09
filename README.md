@@ -3,7 +3,7 @@
 This project makes attempt to analyze the dataset consisting of information on specific subjects training (4) delivered on Udemy between 2011 and 2017. There are files available for each dataset, visual, recommendation)
 
 
-# The Tools used:
+# The Tools used
 
 Microsoft Excel: Removed Duplicate and Blank rows
 
