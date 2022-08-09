@@ -1,16 +1,14 @@
 # Udemy-Course-DashBoard
 
-
-
 This project makes attempt to analyze the dataset consisting of information on specific subjects training (4) delivered on Udemy between 2011 and 2017. There are files available for each dataset, visual, recommendation)
 
-THE PROCESS
 
-Tools used:
+# The Tools used:
 
 Microsoft Excel: Removed Duplicate and Blank rows
 
 changed saving format of Dataset from CSV to xls to allow prompt exportation.
+
 
 Microsoft SQL Server:
 
@@ -38,6 +36,6 @@ Microsoft Power Point:
 
 Documented recommendations based on the insights generated from the dataset.
 
-DELIVERABLE
+# DELIVERABLE
 
 An interactive dashboard visualizing KPI, subject & courses analysis, revenue variations across months and year for an e-learning platform. 
